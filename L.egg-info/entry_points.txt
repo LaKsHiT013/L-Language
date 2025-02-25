@@ -1,0 +1,2 @@
+[console_scripts]
+L = Compile.main:main
