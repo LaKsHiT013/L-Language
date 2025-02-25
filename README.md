@@ -202,3 +202,18 @@ Ab Thak gaya
 - **Operators and Literals:** Follow conventional rules with a unique twist in keywords.
 
 This guide should help you quickly start writing programs in our custom language. Enjoy coding!
+
+---
+
+## 11. Running Your Program
+
+To code in this language on your system:
+
+1. Download the `APP` folder, which contains two files: `main.exe` and `1.L`.
+2. Open the folder in **VS Code** or any other code editor.
+3. write the code in `1.L` (you can change the file or can create your own file in the same dir and code in it)
+4. Run the following command in the terminal:
+
+   ```sh
+   .\main.exe 1.L   # is using your own file replace 1.L with your file name
+   ```
