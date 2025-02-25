@@ -1,4 +1,4 @@
-# My Language Syntax Guide
+# L Syntax Guide
 
 Welcome to the **My Language Syntax Guide**! This language uses a conversational style with unique keywords. Below is an overview of the syntax along with examples for each construct.
 
